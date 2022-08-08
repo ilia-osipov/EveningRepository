@@ -13,3 +13,6 @@
 * *git branch* - команда, которая выводит все существуествующие в репозитории ветки, указывая на текущую;
 
 * *git merge branch_name* - сливает текущую ветку(current) с веткой branch_name (incoming);
+
+* *git branch branch_name* - команда, создающая новую ветку с именем branch_name;
+
